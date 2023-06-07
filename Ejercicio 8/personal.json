@@ -1,0 +1,186 @@
+{
+    "__class__": "Coleccion",
+    "nodos": [
+        {
+            "__class__": "Nodo",
+            "__atributos": {
+                "agente": {
+                    "__class__": "Docente",
+                    "atributos": {
+                        "cuil": "27-87654321-9",
+                        "apellido": "Perez",
+                        "nombre": "Maria",
+                        "sueldoBasico": 60000,
+                        "antiguedad": 3,
+                        "carreraDicta": "Ingenieria",
+                        "cargo": "Exclusivo",
+                        "catedra": "Programacion Avanzada"
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos": {
+                "agente": {
+                    "__class__": "Investigador",
+                    "atributos": {
+                        "cuil": "25-98765432-2",
+                        "apellido": "Rodriguez",
+                        "nombre": "Luis",
+                        "sueldoBasico": 70000,
+                        "antiguedad": 6,
+                        "areaInvestigacion": "Inteligencia Artificial",
+                        "tipoDeInvestigacion": "Aplicada"
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos": {
+                "agente": {
+                    "__class__": "PersonalApoyo",
+                    "atributos": {
+                        "cuil": "20-34567890-6",
+                        "apellido": "Gonzalez",
+                        "nombre": "Lucia",
+                        "sueldoBasico": 40000,
+                        "antiguedad": 2,
+                        "categoria": 15
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos": {
+                "agente": {
+                    "__class__": "DocenteInvestigador",
+                    "atributos": {
+                        "cuil": "23-01234567-3",
+                        "apellido": "Sanchez",
+                        "nombre": "Roberto",
+                        "sueldoBasico": 80000,
+                        "antiguedad": 4,
+                        "carreraDicta": "Economia",
+                        "cargo": "Simple",
+                        "catedra": "Macroeconomia",
+                        "areaInvestigacion": "Economia",
+                        "tipoDeInvestigacion": "Simple",
+                        "categoriaProgramaIncentivos": "II",
+                        "importeExtra": 12000
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos": {
+                "agente": {
+                    "__class__": "Docente",
+                    "atributos": {
+                        "cuil": "27-76543210-8",
+                        "apellido": "Gomez",
+                        "nombre": "Jorge",
+                        "sueldoBasico": 65000,
+                        "antiguedad": 1,
+                        "carreraDicta": "Derecho",
+                        "cargo": "Semiexclusivo",
+                        "catedra": "Derecho Romano"
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos": {
+                "agente": {
+                    "__class__": "Investigador",
+                    "atributos": {
+                        "cuil": "25-54321098-5",
+                        "apellido": "Lopez",
+                        "nombre": "Carlos",
+                        "sueldoBasico": 75000,
+                        "antiguedad": 8,
+                        "areaInvestigacion": "Fisica",
+                        "tipoDeInvestigacion": "Experimental"
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos": {
+                "agente": {
+                    "__class__": "PersonalApoyo",
+                    "atributos": {
+                        "cuil": "20-23456789-4",
+                        "apellido": "Fernandez",
+                        "nombre": "Laura",
+                        "sueldoBasico": 42000,
+                        "antiguedad": 3,
+                        "categoria": 5
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos": {
+                "agente": {
+                    "__class__": "DocenteInvestigador",
+                    "atributos": {
+                        "cuil": "23-76543210-1",
+                        "apellido": "Diaz",
+                        "nombre": "Mariana",
+                        "sueldoBasico": 90000,
+                        "antiguedad": 5,
+                        "carreraDicta": "Medicina",
+                        "cargo": "Exclusivo",
+                        "catedra": "Cardiologia",
+                        "areaInvestigacion": "Medicina",
+                        "tipoDeInvestigacion": "Exclusivo",
+                        "categoriaProgramaIncentivos": "II",
+                        "importeExtra": 15000
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos": {
+                "agente": {
+                    "__class__": "Docente",
+                    "atributos": {
+                        "cuil": "27-12345678-0",
+                        "apellido": "Lopez",
+                        "nombre": "Fernanda",
+                        "sueldoBasico": 55000,
+                        "antiguedad": 2,
+                        "carreraDicta": "Historia",
+                        "cargo": "Semiexclusivo",
+                        "catedra": "Historia Antigua"
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos": {
+                "agente": {
+                    "__class__": "Investigador",
+                    "atributos": {
+                        "cuil": "25-54321678-9",
+                        "apellido": "Martinez",
+                        "nombre": "Ana",
+                        "sueldoBasico": 68000,
+                        "antiguedad": 4,
+                        "areaInvestigacion": "Biologia",
+                        "tipoDeInvestigacion": "Basica"
+                    }
+                }
+            }
+        }
+    ]
+}

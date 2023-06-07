@@ -1,0 +1,6 @@
+dni;nombre;direccion;telefono;tarea;fecha_inicio;fecha_finalizacion;monto_viatico;costo_obra;monto_seguro_vida
+11223344A;Carlos Gomez;Calle Principal 456;987654321;carpintería;2023-06-01;2023-07-31;50000;250000;14000
+22334455B;María Torres;Avenida Central 789;123456789;electricidad;2023-01-15;2023-05-25;60000;350000;15000
+33445566C;Pedro López;Plaza Mayor 123;456123789;plomería;2023-09-01;2023-12-31;70000;400000;15000
+44556677D;Laura Rodríguez;Calle Secundaria 789;789123456;carpintería;2023-10-10;2023-11-30;55000;280000;13000
+55667788E;Javier Hernández;Avenida Norte 321;321987654;electricidad;2023-11-01;2024-01-31;65000;320000;12000
