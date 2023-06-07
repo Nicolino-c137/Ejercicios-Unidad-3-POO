@@ -1,0 +1,89 @@
+{
+    "__class__": "ColeccionVehiculos",
+    "nodos": [
+        {
+            "__class__": "Nodo",
+            "__atributos__": {
+                "vehiculo": {
+                    "__class__": "Nuevo",
+                    "__atributos__": {
+                        "marca": "BMW",
+                        "modelo": "M4",
+                        "cantPuertas": 4,
+                        "color": "Azul",
+                        "precioBase": 119900,
+                        "version": "Full"
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos__": {
+                "vehiculo": {
+                    "__class__": "Nuevo",
+                    "__atributos__": {
+                        "marca": "BMW",
+                        "modelo": "M3",
+                        "cantPuertas": 4,
+                        "color": "Amarillo",
+                        "precioBase": 100000,
+                        "version": "Base"
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos__": {
+                "vehiculo": {
+                    "__class__": "Nuevo",
+                    "__atributos__": {
+                        "marca": "BMW",
+                        "modelo": "M3 E30",
+                        "cantPuertas": 4,
+                        "color": "Rojo",
+                        "precioBase": 115400,
+                        "version": "Full"
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos__": {
+                "vehiculo": {
+                    "__class__": "Usado",
+                    "__atributos__": {
+                        "marca": "Toyota",
+                        "modelo": "Supra",
+                        "cantPuertas": 4,
+                        "color": "Blanco",
+                        "precioBase": 45000,
+                        "patente": "AB 312 CD",
+                        "ano": 1998,
+                        "kilometraje": 12300
+                    }
+                }
+            }
+        },
+        {
+            "__class__": "Nodo",
+            "__atributos__": {
+                "vehiculo": {
+                    "__class__": "Usado",
+                    "__atributos__": {
+                        "marca": "Subaru",
+                        "modelo": "WRX STI",
+                        "cantPuertas": 4,
+                        "color": "Azul plateado",
+                        "precioBase": 47500,
+                        "patente": "AR 420 BR",
+                        "ano": 1997,
+                        "kilometraje": 11920
+                    }
+                }
+            }
+        }
+    ]
+}
